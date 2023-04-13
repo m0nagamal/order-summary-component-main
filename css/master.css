@@ -45,14 +45,14 @@ main .content {
 }
 
 main .content figure {
-    height: 200px;
+    height: 220px;
     width: 100%;
     background-image: url(../images/illustration-hero.svg);
     background-size: cover;
 }
 
 main .content section {
-    padding: 35px;
+    padding: 40px;
 }
 
 @media (max-width: 768px) {
@@ -66,7 +66,7 @@ main .content .details {
 }
 
 main .content .details h1 {
-    font-size: 24px;
+    font-size: 26px;
     font-weight: 900;
     margin-bottom: 15px;
 }
@@ -75,14 +75,14 @@ main .content .details p {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.4;
-    color: hsl(223, 47%, 23%);
+    color: hsl(224, 23%, 55%);
 }
 
 main .content .price {
     display: flex;
     align-items: center;
     background-color: hsl(225, 100%, 98%);
-    margin: 25px 0;
+    margin: 30px 0;
     padding: 20px;
     border-radius: 10px;
     -webkit-border-radius: 10px;
@@ -103,7 +103,7 @@ main .content .info {
 }
 
 main .content .info p {
-    font-weight: 900;
+    font-weight: 700;
     margin-bottom: 4px;
 }
 
